@@ -1,0 +1,12 @@
+REQUEST_NO,Item,Resource,Catalog,description
+1,1,Material A,Cat001,"High-quality steel for construction"
+1,2,Material B,Cat002,"Granular sand for construction site"
+1,3,Material C,Cat003,"Cement for foundation work"
+2,1,Report Template,Cat004,"Template for quarterly financial report"
+2,2,Data Set,Cat005,"Dataset for the financial analysis"
+3,1,Training Material,Cat006,"Presentation slides for training"
+3,2,Training Kit,Cat007,"Documents and resources for training session"
+4,1,Budget Template,Cat008,"Template for annual budget planning"
+4,2,Spreadsheet,Cat009,"Excel file for budget tracking"
+5,1,Feedback Form,Cat010,"Form to collect customer feedback"
+5,2,Survey Software,Cat011,"Online survey tool for feedback collection"
